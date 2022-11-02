@@ -1,0 +1,827 @@
+TEST EXECUTION ON: 2022-11-02 22:07:57 - ERRORS FOUND IN THE FOLLOWING RECORDS:
+"{row: 8, column: ""_source.email""}: ""wilhemina st.@tran-family.zzz"" --> invalid email format"
+"{row: 9, column: ""_source.email""}: ""rabbia al@baker-family.zzz"" --> invalid email format"
+"{row: 10, column: ""_source.email""}: ""rabbia al@romero-family.zzz"" --> invalid email format"
+"{row: 12, column: ""_source.email""}: ""sultan al@pratt-family.zzz"" --> invalid email format"
+"{row: 14, column: ""_source.email""}: ""sultan al@thompson-family.zzz"" --> invalid email format"
+"{row: 15, column: ""_source.email""}: ""sultan al@boone-family.zzz"" --> invalid email format"
+"{row: 45, column: ""_source.email""}: ""rabbia al@graham-family.zzz"" --> invalid email format"
+"{row: 48, column: ""_source.email""}: ""wilhemina st.@parker-family.zzz"" --> invalid email format"
+"{row: 52, column: ""_source.email""}: ""wilhemina st.@mccarthy-family.zzz"" --> invalid email format"
+"{row: 61, column: ""_source.email""}: ""rabbia al@simmons-family.zzz"" --> invalid email format"
+"{row: 64, column: ""_source.email""}: ""rabbia al@perkins-family.zzz"" --> invalid email format"
+"{row: 69, column: ""_source.email""}: ""sultan al@marshall-family.zzz"" --> invalid email format"
+"{row: 78, column: ""_source.email""}: ""abdulraheem al@mullins-family.zzz"" --> invalid email format"
+"{row: 91, column: ""_source.email""}: ""abdulraheem al@shaw-family.zzz"" --> invalid email format"
+"{row: 105, column: ""_source.email""}: ""sultan al@ball-family.zzz"" --> invalid email format"
+"{row: 118, column: ""_source.email""}: ""sultan al@harvey-family.zzz"" --> invalid email format"
+"{row: 132, column: ""_source.email""}: ""rabbia al@ruiz-family.zzz"" --> invalid email format"
+"{row: 139, column: ""_source.email""}: ""ahmed al@sutton-family.zzz"" --> invalid email format"
+"{row: 143, column: ""_source.email""}: ""rabbia al@porter-family.zzz"" --> invalid email format"
+"{row: 146, column: ""_source.email""}: ""rabbia al@tran-family.zzz"" --> invalid email format"
+"{row: 158, column: ""_source.email""}: ""ahmed al@morrison-family.zzz"" --> invalid email format"
+"{row: 159, column: ""_source.email""}: ""wilhemina st.@phillips-family.zzz"" --> invalid email format"
+"{row: 180, column: ""_source.email""}: ""sultan al@graham-family.zzz"" --> invalid email format"
+"{row: 203, column: ""_source.email""}: ""rabbia al@henderson-family.zzz"" --> invalid email format"
+"{row: 210, column: ""_source.email""}: ""wilhemina st.@bradley-family.zzz"" --> invalid email format"
+"{row: 221, column: ""_source.email""}: ""sultan al@mccarthy-family.zzz"" --> invalid email format"
+"{row: 224, column: ""_source.email""}: ""wilhemina st.@brock-family.zzz"" --> invalid email format"
+"{row: 225, column: ""_source.email""}: ""wilhemina st.@reyes-family.zzz"" --> invalid email format"
+"{row: 226, column: ""_source.email""}: ""rabbia al@simmons-family.zzz"" --> invalid email format"
+"{row: 229, column: ""_source.email""}: ""wilhemina st.@burton-family.zzz"" --> invalid email format"
+"{row: 244, column: ""_source.email""}: ""wilhemina st.@lloyd-family.zzz"" --> invalid email format"
+"{row: 249, column: ""_source.email""}: ""rabbia al@jensen-family.zzz"" --> invalid email format"
+"{row: 258, column: ""_source.email""}: ""wilhemina st.@hudson-family.zzz"" --> invalid email format"
+"{row: 270, column: ""_source.email""}: ""ahmed al@barnes-family.zzz"" --> invalid email format"
+"{row: 273, column: ""_source.email""}: ""ahmed al@gross-family.zzz"" --> invalid email format"
+"{row: 305, column: ""_source.email""}: ""sultan al@shaw-family.zzz"" --> invalid email format"
+"{row: 309, column: ""_source.email""}: ""sultan al@haynes-family.zzz"" --> invalid email format"
+"{row: 333, column: ""_source.email""}: ""rabbia al@tran-family.zzz"" --> invalid email format"
+"{row: 335, column: ""_source.email""}: ""rabbia al@underwood-family.zzz"" --> invalid email format"
+"{row: 336, column: ""_source.email""}: ""wilhemina st.@butler-family.zzz"" --> invalid email format"
+"{row: 342, column: ""_source.email""}: ""wilhemina st.@strickland-family.zzz"" --> invalid email format"
+"{row: 352, column: ""_source.email""}: ""rabbia al@farmer-family.zzz"" --> invalid email format"
+"{row: 364, column: ""_source.email""}: ""sultan al@meyer-family.zzz"" --> invalid email format"
+"{row: 371, column: ""_source.email""}: ""wilhemina st.@romero-family.zzz"" --> invalid email format"
+"{row: 386, column: ""_source.email""}: ""sultan al@foster-family.zzz"" --> invalid email format"
+"{row: 400, column: ""_source.email""}: ""rabbia al@miller-family.zzz"" --> invalid email format"
+"{row: 413, column: ""_source.email""}: ""rabbia al@morgan-family.zzz"" --> invalid email format"
+"{row: 428, column: ""_source.email""}: ""wilhemina st.@baker-family.zzz"" --> invalid email format"
+"{row: 436, column: ""_source.email""}: ""abdulraheem al@willis-family.zzz"" --> invalid email format"
+"{row: 439, column: ""_source.email""}: ""ahmed al@reese-family.zzz"" --> invalid email format"
+"{row: 453, column: ""_source.email""}: ""abdulraheem al@howell-family.zzz"" --> invalid email format"
+"{row: 467, column: ""_source.email""}: ""abdulraheem al@bowers-family.zzz"" --> invalid email format"
+"{row: 474, column: ""_source.email""}: ""abdulraheem al@mclaughlin-family.zzz"" --> invalid email format"
+"{row: 477, column: ""_source.email""}: ""wilhemina st.@jimenez-family.zzz"" --> invalid email format"
+"{row: 480, column: ""_source.email""}: ""ahmed al@mckenzie-family.zzz"" --> invalid email format"
+"{row: 485, column: ""_source.email""}: ""sultan al@hansen-family.zzz"" --> invalid email format"
+"{row: 487, column: ""_source.email""}: ""wilhemina st.@franklin-family.zzz"" --> invalid email format"
+"{row: 488, column: ""_source.email""}: ""sultan al@morgan-family.zzz"" --> invalid email format"
+"{row: 491, column: ""_source.email""}: ""sultan al@rose-family.zzz"" --> invalid email format"
+"{row: 499, column: ""_source.email""}: ""sultan al@simmons-family.zzz"" --> invalid email format"
+"{row: 500, column: ""_source.email""}: ""abdulraheem al@carr-family.zzz"" --> invalid email format"
+"{row: 504, column: ""_source.email""}: ""sultan al@fleming-family.zzz"" --> invalid email format"
+"{row: 511, column: ""_source.email""}: ""sultan al@mullins-family.zzz"" --> invalid email format"
+"{row: 518, column: ""_source.email""}: ""sultan al@potter-family.zzz"" --> invalid email format"
+"{row: 540, column: ""_source.email""}: ""rabbia al@craig-family.zzz"" --> invalid email format"
+"{row: 567, column: ""_source.email""}: ""wilhemina st.@massey-family.zzz"" --> invalid email format"
+"{row: 572, column: ""_source.email""}: ""abdulraheem al@washington-family.zzz"" --> invalid email format"
+"{row: 609, column: ""_source.email""}: ""wilhemina st.@dixon-family.zzz"" --> invalid email format"
+"{row: 622, column: ""_source.email""}: ""rabbia al@valdez-family.zzz"" --> invalid email format"
+"{row: 624, column: ""_source.email""}: ""wilhemina st.@potter-family.zzz"" --> invalid email format"
+"{row: 625, column: ""_source.email""}: ""rabbia al@sutton-family.zzz"" --> invalid email format"
+"{row: 630, column: ""_source.email""}: ""rabbia al@soto-family.zzz"" --> invalid email format"
+"{row: 637, column: ""_source.email""}: ""rabbia al@rivera-family.zzz"" --> invalid email format"
+"{row: 646, column: ""_source.email""}: ""abdulraheem al@cortez-family.zzz"" --> invalid email format"
+"{row: 652, column: ""_source.email""}: ""ahmed al@harper-family.zzz"" --> invalid email format"
+"{row: 654, column: ""_source.email""}: ""wilhemina st.@roberson-family.zzz"" --> invalid email format"
+"{row: 662, column: ""_source.email""}: ""rabbia al@fletcher-family.zzz"" --> invalid email format"
+"{row: 674, column: ""_source.email""}: ""wilhemina st.@howell-family.zzz"" --> invalid email format"
+"{row: 719, column: ""_source.email""}: ""rabbia al@wise-family.zzz"" --> invalid email format"
+"{row: 720, column: ""_source.email""}: ""rabbia al@hansen-family.zzz"" --> invalid email format"
+"{row: 723, column: ""_source.email""}: ""wilhemina st.@bryant-family.zzz"" --> invalid email format"
+"{row: 735, column: ""_source.email""}: ""rabbia al@griffin-family.zzz"" --> invalid email format"
+"{row: 739, column: ""_source.email""}: ""sultan al@carpenter-family.zzz"" --> invalid email format"
+"{row: 741, column: ""_source.email""}: ""abdulraheem al@weber-family.zzz"" --> invalid email format"
+"{row: 742, column: ""_source.email""}: ""wilhemina st.@jensen-family.zzz"" --> invalid email format"
+"{row: 744, column: ""_source.email""}: ""rabbia al@watkins-family.zzz"" --> invalid email format"
+"{row: 747, column: ""_source.email""}: ""wilhemina st.@washington-family.zzz"" --> invalid email format"
+"{row: 763, column: ""_source.email""}: ""wilhemina st.@marshall-family.zzz"" --> invalid email format"
+"{row: 777, column: ""_source.email""}: ""wilhemina st.@underwood-family.zzz"" --> invalid email format"
+"{row: 778, column: ""_source.email""}: ""wilhemina st.@king-family.zzz"" --> invalid email format"
+"{row: 785, column: ""_source.email""}: ""abdulraheem al@moss-family.zzz"" --> invalid email format"
+"{row: 805, column: ""_source.email""}: ""wilhemina st.@massey-family.zzz"" --> invalid email format"
+"{row: 833, column: ""_source.email""}: ""ahmed al@sanders-family.zzz"" --> invalid email format"
+"{row: 855, column: ""_source.email""}: ""ahmed al@garza-family.zzz"" --> invalid email format"
+"{row: 870, column: ""_source.email""}: ""abdulraheem al@padilla-family.zzz"" --> invalid email format"
+"{row: 882, column: ""_source.email""}: ""rabbia al@james-family.zzz"" --> invalid email format"
+"{row: 885, column: ""_source.email""}: ""rabbia al@jackson-family.zzz"" --> invalid email format"
+"{row: 891, column: ""_source.email""}: ""wilhemina st.@valdez-family.zzz"" --> invalid email format"
+"{row: 899, column: ""_source.email""}: ""sultan al@lambert-family.zzz"" --> invalid email format"
+"{row: 901, column: ""_source.email""}: ""rabbia al@willis-family.zzz"" --> invalid email format"
+"{row: 902, column: ""_source.email""}: ""wilhemina st.@ryan-family.zzz"" --> invalid email format"
+"{row: 903, column: ""_source.email""}: ""rabbia al@baker-family.zzz"" --> invalid email format"
+"{row: 907, column: ""_source.email""}: ""wilhemina st.@ball-family.zzz"" --> invalid email format"
+"{row: 911, column: ""_source.email""}: ""sultan al@perkins-family.zzz"" --> invalid email format"
+"{row: 913, column: ""_source.email""}: ""rabbia al@caldwell-family.zzz"" --> invalid email format"
+"{row: 919, column: ""_source.email""}: ""ahmed al@gregory-family.zzz"" --> invalid email format"
+"{row: 931, column: ""_source.email""}: ""rabbia al@hardy-family.zzz"" --> invalid email format"
+"{row: 935, column: ""_source.email""}: ""sultan al@jimenez-family.zzz"" --> invalid email format"
+"{row: 943, column: ""_source.email""}: ""sultan al@rivera-family.zzz"" --> invalid email format"
+"{row: 945, column: ""_source.email""}: ""wilhemina st.@hayes-family.zzz"" --> invalid email format"
+"{row: 947, column: ""_source.email""}: ""rabbia al@swanson-family.zzz"" --> invalid email format"
+"{row: 971, column: ""_source.email""}: ""rabbia al@mccarthy-family.zzz"" --> invalid email format"
+"{row: 981, column: ""_source.email""}: ""wilhemina st.@summers-family.zzz"" --> invalid email format"
+"{row: 992, column: ""_source.email""}: ""rabbia al@ruiz-family.zzz"" --> invalid email format"
+"{row: 1000, column: ""_source.email""}: ""ahmed al@morris-family.zzz"" --> invalid email format"
+"{row: 1004, column: ""_source.email""}: ""ahmed al@underwood-family.zzz"" --> invalid email format"
+"{row: 1013, column: ""_source.email""}: ""wilhemina st.@tran-family.zzz"" --> invalid email format"
+"{row: 1026, column: ""_source.email""}: ""rabbia al@barber-family.zzz"" --> invalid email format"
+"{row: 1038, column: ""_source.email""}: ""wilhemina st.@mullins-family.zzz"" --> invalid email format"
+"{row: 1040, column: ""_source.email""}: ""sultan al@hudson-family.zzz"" --> invalid email format"
+"{row: 1043, column: ""_source.email""}: ""sultan al@garza-family.zzz"" --> invalid email format"
+"{row: 1055, column: ""_source.email""}: ""sultan al@cross-family.zzz"" --> invalid email format"
+"{row: 1056, column: ""_source.email""}: ""rabbia al@wolfe-family.zzz"" --> invalid email format"
+"{row: 1058, column: ""_source.email""}: ""sultan al@reyes-family.zzz"" --> invalid email format"
+"{row: 1059, column: ""_source.email""}: ""wilhemina st.@hansen-family.zzz"" --> invalid email format"
+"{row: 1064, column: ""_source.email""}: ""rabbia al@baker-family.zzz"" --> invalid email format"
+"{row: 1085, column: ""_source.email""}: ""sultan al@richards-family.zzz"" --> invalid email format"
+"{row: 1091, column: ""_source.email""}: ""abdulraheem al@estrada-family.zzz"" --> invalid email format"
+"{row: 1094, column: ""_source.email""}: ""wilhemina st.@mccarthy-family.zzz"" --> invalid email format"
+"{row: 1095, column: ""_source.email""}: ""sultan al@bryan-family.zzz"" --> invalid email format"
+"{row: 1099, column: ""_source.email""}: ""rabbia al@graves-family.zzz"" --> invalid email format"
+"{row: 1100, column: ""_source.email""}: ""abdulraheem al@dennis-family.zzz"" --> invalid email format"
+"{row: 1105, column: ""_source.email""}: ""wilhemina st.@jackson-family.zzz"" --> invalid email format"
+"{row: 1128, column: ""_source.email""}: ""sultan al@love-family.zzz"" --> invalid email format"
+"{row: 1134, column: ""_source.email""}: ""wilhemina st.@goodwin-family.zzz"" --> invalid email format"
+"{row: 1137, column: ""_source.email""}: ""abdulraheem al@stewart-family.zzz"" --> invalid email format"
+"{row: 1138, column: ""_source.email""}: ""wilhemina st.@lloyd-family.zzz"" --> invalid email format"
+"{row: 1143, column: ""_source.email""}: ""sultan al@shaw-family.zzz"" --> invalid email format"
+"{row: 1156, column: ""_source.email""}: ""wilhemina st.@austin-family.zzz"" --> invalid email format"
+"{row: 1165, column: ""_source.email""}: ""abdulraheem al@morgan-family.zzz"" --> invalid email format"
+"{row: 1187, column: ""_source.email""}: ""ahmed al@figueroa-family.zzz"" --> invalid email format"
+"{row: 1188, column: ""_source.email""}: ""sultan al@wells-family.zzz"" --> invalid email format"
+"{row: 1194, column: ""_source.email""}: ""abdulraheem al@weber-family.zzz"" --> invalid email format"
+"{row: 1223, column: ""_source.email""}: ""abdulraheem al@graves-family.zzz"" --> invalid email format"
+"{row: 1224, column: ""_source.email""}: ""ahmed al@cross-family.zzz"" --> invalid email format"
+"{row: 1244, column: ""_source.email""}: ""wilhemina st.@rivera-family.zzz"" --> invalid email format"
+"{row: 1246, column: ""_source.email""}: ""abdulraheem al@soto-family.zzz"" --> invalid email format"
+"{row: 1249, column: ""_source.email""}: ""rabbia al@salazar-family.zzz"" --> invalid email format"
+"{row: 1255, column: ""_source.email""}: ""ahmed al@chandler-family.zzz"" --> invalid email format"
+"{row: 1258, column: ""_source.email""}: ""wilhemina st.@davidson-family.zzz"" --> invalid email format"
+"{row: 1261, column: ""_source.email""}: ""rabbia al@gomez-family.zzz"" --> invalid email format"
+"{row: 1262, column: ""_source.email""}: ""wilhemina st.@taylor-family.zzz"" --> invalid email format"
+"{row: 1263, column: ""_source.email""}: ""wilhemina st.@rice-family.zzz"" --> invalid email format"
+"{row: 1267, column: ""_source.email""}: ""sultan al@love-family.zzz"" --> invalid email format"
+"{row: 1274, column: ""_source.email""}: ""wilhemina st.@stokes-family.zzz"" --> invalid email format"
+"{row: 1306, column: ""_source.email""}: ""rabbia al@schultz-family.zzz"" --> invalid email format"
+"{row: 1307, column: ""_source.email""}: ""wilhemina st.@tyler-family.zzz"" --> invalid email format"
+"{row: 1312, column: ""_source.email""}: ""wilhemina st.@haynes-family.zzz"" --> invalid email format"
+"{row: 1314, column: ""_source.email""}: ""rabbia al@ryan-family.zzz"" --> invalid email format"
+"{row: 1315, column: ""_source.email""}: ""rabbia al@ball-family.zzz"" --> invalid email format"
+"{row: 1323, column: ""_source.email""}: ""wilhemina st.@soto-family.zzz"" --> invalid email format"
+"{row: 1328, column: ""_source.email""}: ""wilhemina st.@weber-family.zzz"" --> invalid email format"
+"{row: 1346, column: ""_source.email""}: ""sultan al@bryan-family.zzz"" --> invalid email format"
+"{row: 1347, column: ""_source.email""}: ""sultan al@lloyd-family.zzz"" --> invalid email format"
+"{row: 1351, column: ""_source.email""}: ""ahmed al@gomez-family.zzz"" --> invalid email format"
+"{row: 1360, column: ""_source.email""}: ""wilhemina st.@ball-family.zzz"" --> invalid email format"
+"{row: 1409, column: ""_source.email""}: ""rabbia al@clayton-family.zzz"" --> invalid email format"
+"{row: 1411, column: ""_source.email""}: ""sultan al@reyes-family.zzz"" --> invalid email format"
+"{row: 1413, column: ""_source.email""}: ""wilhemina st.@phelps-family.zzz"" --> invalid email format"
+"{row: 1416, column: ""_source.email""}: ""sultan al@morris-family.zzz"" --> invalid email format"
+"{row: 1418, column: ""_source.email""}: ""sultan al@simmons-family.zzz"" --> invalid email format"
+"{row: 1429, column: ""_source.email""}: ""sultan al@bailey-family.zzz"" --> invalid email format"
+"{row: 1434, column: ""_source.email""}: ""rabbia al@foster-family.zzz"" --> invalid email format"
+"{row: 1437, column: ""_source.email""}: ""sultan al@stokes-family.zzz"" --> invalid email format"
+"{row: 1440, column: ""_source.email""}: ""wilhemina st.@sanders-family.zzz"" --> invalid email format"
+"{row: 1441, column: ""_source.email""}: ""rabbia al@tyler-family.zzz"" --> invalid email format"
+"{row: 1444, column: ""_source.email""}: ""rabbia al@hampton-family.zzz"" --> invalid email format"
+"{row: 1448, column: ""_source.email""}: ""sultan al@marshall-family.zzz"" --> invalid email format"
+"{row: 1451, column: ""_source.email""}: ""sultan al@sanders-family.zzz"" --> invalid email format"
+"{row: 1453, column: ""_source.email""}: ""rabbia al@turner-family.zzz"" --> invalid email format"
+"{row: 1454, column: ""_source.email""}: ""rabbia al@shaw-family.zzz"" --> invalid email format"
+"{row: 1473, column: ""_source.email""}: ""sultan al@foster-family.zzz"" --> invalid email format"
+"{row: 1484, column: ""_source.email""}: ""ahmed al@strickland-family.zzz"" --> invalid email format"
+"{row: 1505, column: ""_source.email""}: ""wilhemina st.@wood-family.zzz"" --> invalid email format"
+"{row: 1516, column: ""_source.email""}: ""rabbia al@hart-family.zzz"" --> invalid email format"
+"{row: 1523, column: ""_source.email""}: ""rabbia al@wood-family.zzz"" --> invalid email format"
+"{row: 1527, column: ""_source.email""}: ""wilhemina st.@burton-family.zzz"" --> invalid email format"
+"{row: 1534, column: ""_source.email""}: ""ahmed al@lewis-family.zzz"" --> invalid email format"
+"{row: 1539, column: ""_source.email""}: ""wilhemina st.@cortez-family.zzz"" --> invalid email format"
+"{row: 1541, column: ""_source.email""}: ""ahmed al@mullins-family.zzz"" --> invalid email format"
+"{row: 1546, column: ""_source.email""}: ""ahmed al@hayes-family.zzz"" --> invalid email format"
+"{row: 1551, column: ""_source.email""}: ""abdulraheem al@washington-family.zzz"" --> invalid email format"
+"{row: 1562, column: ""_source.email""}: ""ahmed al@sutton-family.zzz"" --> invalid email format"
+"{row: 1577, column: ""_source.email""}: ""rabbia al@shaw-family.zzz"" --> invalid email format"
+"{row: 1590, column: ""_source.email""}: ""rabbia al@simpson-family.zzz"" --> invalid email format"
+"{row: 1607, column: ""_source.email""}: ""rabbia al@riley-family.zzz"" --> invalid email format"
+"{row: 1619, column: ""_source.email""}: ""wilhemina st.@rose-family.zzz"" --> invalid email format"
+"{row: 1620, column: ""_source.email""}: ""sultan al@adams-family.zzz"" --> invalid email format"
+"{row: 1657, column: ""_source.email""}: ""sultan al@benson-family.zzz"" --> invalid email format"
+"{row: 1664, column: ""_source.email""}: ""rabbia al@adams-family.zzz"" --> invalid email format"
+"{row: 1703, column: ""_source.email""}: ""rabbia al@pratt-family.zzz"" --> invalid email format"
+"{row: 1704, column: ""_source.email""}: ""wilhemina st.@bryant-family.zzz"" --> invalid email format"
+"{row: 1726, column: ""_source.email""}: ""rabbia al@hansen-family.zzz"" --> invalid email format"
+"{row: 1728, column: ""_source.email""}: ""rabbia al@massey-family.zzz"" --> invalid email format"
+"{row: 1730, column: ""_source.email""}: ""rabbia al@tyler-family.zzz"" --> invalid email format"
+"{row: 1732, column: ""_source.email""}: ""wilhemina st.@gibbs-family.zzz"" --> invalid email format"
+"{row: 1738, column: ""_source.email""}: ""wilhemina st.@strickland-family.zzz"" --> invalid email format"
+"{row: 1746, column: ""_source.email""}: ""abdulraheem al@marshall-family.zzz"" --> invalid email format"
+"{row: 1755, column: ""_source.email""}: ""sultan al@brock-family.zzz"" --> invalid email format"
+"{row: 1768, column: ""_source.email""}: ""sultan al@cortez-family.zzz"" --> invalid email format"
+"{row: 1781, column: ""_source.email""}: ""rabbia al@swanson-family.zzz"" --> invalid email format"
+"{row: 1783, column: ""_source.email""}: ""wilhemina st.@graham-family.zzz"" --> invalid email format"
+"{row: 1788, column: ""_source.email""}: ""rabbia al@massey-family.zzz"" --> invalid email format"
+"{row: 1817, column: ""_source.email""}: ""sultan al@lamb-family.zzz"" --> invalid email format"
+"{row: 1821, column: ""_source.email""}: ""wilhemina st.@potter-family.zzz"" --> invalid email format"
+"{row: 1830, column: ""_source.email""}: ""abdulraheem al@rios-family.zzz"" --> invalid email format"
+"{row: 1840, column: ""_source.email""}: ""wilhemina st.@simpson-family.zzz"" --> invalid email format"
+"{row: 1848, column: ""_source.email""}: ""ahmed al@dawson-family.zzz"" --> invalid email format"
+"{row: 1866, column: ""_source.email""}: ""rabbia al@tran-family.zzz"" --> invalid email format"
+"{row: 1870, column: ""_source.email""}: ""wilhemina st.@massey-family.zzz"" --> invalid email format"
+"{row: 1874, column: ""_source.email""}: ""wilhemina st.@barber-family.zzz"" --> invalid email format"
+"{row: 1898, column: ""_source.email""}: ""sultan al@mccormick-family.zzz"" --> invalid email format"
+"{row: 1901, column: ""_source.email""}: ""abdulraheem al@bryant-family.zzz"" --> invalid email format"
+"{row: 1902, column: ""_source.email""}: ""rabbia al@mccarthy-family.zzz"" --> invalid email format"
+"{row: 1908, column: ""_source.email""}: ""ahmed al@long-family.zzz"" --> invalid email format"
+"{row: 1915, column: ""_source.email""}: ""abdulraheem al@baker-family.zzz"" --> invalid email format"
+"{row: 1920, column: ""_source.email""}: ""abdulraheem al@brock-family.zzz"" --> invalid email format"
+"{row: 1951, column: ""_source.email""}: ""wilhemina st.@watkins-family.zzz"" --> invalid email format"
+"{row: 1966, column: ""_source.email""}: ""sultan al@sherman-family.zzz"" --> invalid email format"
+"{row: 1979, column: ""_source.email""}: ""sultan al@rodriguez-family.zzz"" --> invalid email format"
+"{row: 1981, column: ""_source.email""}: ""wilhemina st.@taylor-family.zzz"" --> invalid email format"
+"{row: 1984, column: ""_source.email""}: ""rabbia al@massey-family.zzz"" --> invalid email format"
+"{row: 1986, column: ""_source.email""}: ""wilhemina st.@dixon-family.zzz"" --> invalid email format"
+"{row: 1995, column: ""_source.email""}: ""abdulraheem al@davidson-family.zzz"" --> invalid email format"
+"{row: 2006, column: ""_source.email""}: ""wilhemina st.@walters-family.zzz"" --> invalid email format"
+"{row: 2027, column: ""_source.email""}: ""wilhemina st.@bowers-family.zzz"" --> invalid email format"
+"{row: 2035, column: ""_source.email""}: ""rabbia al@shaw-family.zzz"" --> invalid email format"
+"{row: 2060, column: ""_source.email""}: ""wilhemina st.@marshall-family.zzz"" --> invalid email format"
+"{row: 2069, column: ""_source.email""}: ""abdulraheem al@hardy-family.zzz"" --> invalid email format"
+"{row: 2073, column: ""_source.email""}: ""rabbia al@reyes-family.zzz"" --> invalid email format"
+"{row: 2075, column: ""_source.email""}: ""wilhemina st.@byrd-family.zzz"" --> invalid email format"
+"{row: 2082, column: ""_source.email""}: ""wilhemina st.@cunningham-family.zzz"" --> invalid email format"
+"{row: 2099, column: ""_source.email""}: ""sultan al@allison-family.zzz"" --> invalid email format"
+"{row: 2106, column: ""_source.email""}: ""wilhemina st.@simpson-family.zzz"" --> invalid email format"
+"{row: 2123, column: ""_source.email""}: ""abdulraheem al@lambert-family.zzz"" --> invalid email format"
+"{row: 2125, column: ""_source.email""}: ""abdulraheem al@greene-family.zzz"" --> invalid email format"
+"{row: 2128, column: ""_source.email""}: ""wilhemina st.@summers-family.zzz"" --> invalid email format"
+"{row: 2130, column: ""_source.email""}: ""sultan al@graham-family.zzz"" --> invalid email format"
+"{row: 2131, column: ""_source.email""}: ""wilhemina st.@hodges-family.zzz"" --> invalid email format"
+"{row: 2141, column: ""_source.email""}: ""sultan al@mullins-family.zzz"" --> invalid email format"
+"{row: 2149, column: ""_source.email""}: ""abdulraheem al@duncan-family.zzz"" --> invalid email format"
+"{row: 2150, column: ""_source.email""}: ""ahmed al@hampton-family.zzz"" --> invalid email format"
+"{row: 2155, column: ""_source.email""}: ""wilhemina st.@james-family.zzz"" --> invalid email format"
+"{row: 2179, column: ""_source.email""}: ""ahmed al@austin-family.zzz"" --> invalid email format"
+"{row: 2190, column: ""_source.email""}: ""ahmed al@chandler-family.zzz"" --> invalid email format"
+"{row: 2191, column: ""_source.email""}: ""ahmed al@richards-family.zzz"" --> invalid email format"
+"{row: 2201, column: ""_source.email""}: ""rabbia al@ball-family.zzz"" --> invalid email format"
+"{row: 2213, column: ""_source.email""}: ""rabbia al@jackson-family.zzz"" --> invalid email format"
+"{row: 2228, column: ""_source.email""}: ""sultan al@morgan-family.zzz"" --> invalid email format"
+"{row: 2229, column: ""_source.email""}: ""rabbia al@cook-family.zzz"" --> invalid email format"
+"{row: 2230, column: ""_source.email""}: ""wilhemina st.@riley-family.zzz"" --> invalid email format"
+"{row: 2238, column: ""_source.email""}: ""ahmed al@henderson-family.zzz"" --> invalid email format"
+"{row: 2241, column: ""_source.email""}: ""sultan al@king-family.zzz"" --> invalid email format"
+"{row: 2268, column: ""_source.email""}: ""sultan al@harvey-family.zzz"" --> invalid email format"
+"{row: 2288, column: ""_source.email""}: ""rabbia al@jensen-family.zzz"" --> invalid email format"
+"{row: 2291, column: ""_source.email""}: ""rabbia al@jenkins-family.zzz"" --> invalid email format"
+"{row: 2292, column: ""_source.email""}: ""sultan al@morgan-family.zzz"" --> invalid email format"
+"{row: 2295, column: ""_source.email""}: ""wilhemina st.@greene-family.zzz"" --> invalid email format"
+"{row: 2296, column: ""_source.email""}: ""rabbia al@morrison-family.zzz"" --> invalid email format"
+"{row: 2297, column: ""_source.email""}: ""rabbia al@little-family.zzz"" --> invalid email format"
+"{row: 2310, column: ""_source.email""}: ""rabbia al@cunningham-family.zzz"" --> invalid email format"
+"{row: 2311, column: ""_source.email""}: ""rabbia al@ball-family.zzz"" --> invalid email format"
+"{row: 2317, column: ""_source.email""}: ""wilhemina st.@garza-family.zzz"" --> invalid email format"
+"{row: 2333, column: ""_source.email""}: ""ahmed al@tran-family.zzz"" --> invalid email format"
+"{row: 2343, column: ""_source.email""}: ""sultan al@mullins-family.zzz"" --> invalid email format"
+"{row: 2363, column: ""_source.email""}: ""abdulraheem al@goodman-family.zzz"" --> invalid email format"
+"{row: 2366, column: ""_source.email""}: ""abdulraheem al@boone-family.zzz"" --> invalid email format"
+"{row: 2368, column: ""_source.email""}: ""rabbia al@craig-family.zzz"" --> invalid email format"
+"{row: 2371, column: ""_source.email""}: ""abdulraheem al@padilla-family.zzz"" --> invalid email format"
+"{row: 2422, column: ""_source.email""}: ""abdulraheem al@miller-family.zzz"" --> invalid email format"
+"{row: 2428, column: ""_source.email""}: ""sultan al@mccarthy-family.zzz"" --> invalid email format"
+"{row: 2465, column: ""_source.email""}: ""abdulraheem al@craig-family.zzz"" --> invalid email format"
+"{row: 2476, column: ""_source.email""}: ""wilhemina st.@smith-family.zzz"" --> invalid email format"
+"{row: 2493, column: ""_source.email""}: ""rabbia al@morris-family.zzz"" --> invalid email format"
+"{row: 2496, column: ""_source.email""}: ""wilhemina st.@dixon-family.zzz"" --> invalid email format"
+"{row: 2508, column: ""_source.email""}: ""wilhemina st.@webb-family.zzz"" --> invalid email format"
+"{row: 2512, column: ""_source.email""}: ""wilhemina st.@caldwell-family.zzz"" --> invalid email format"
+"{row: 2520, column: ""_source.email""}: ""rabbia al@brock-family.zzz"" --> invalid email format"
+"{row: 2529, column: ""_source.email""}: ""sultan al@porter-family.zzz"" --> invalid email format"
+"{row: 2536, column: ""_source.email""}: ""abdulraheem al@abbott-family.zzz"" --> invalid email format"
+"{row: 2537, column: ""_source.email""}: ""ahmed al@austin-family.zzz"" --> invalid email format"
+"{row: 2538, column: ""_source.email""}: ""rabbia al@perkins-family.zzz"" --> invalid email format"
+"{row: 2543, column: ""_source.email""}: ""abdulraheem al@rice-family.zzz"" --> invalid email format"
+"{row: 2553, column: ""_source.email""}: ""abdulraheem al@stewart-family.zzz"" --> invalid email format"
+"{row: 2557, column: ""_source.email""}: ""sultan al@rowe-family.zzz"" --> invalid email format"
+"{row: 2565, column: ""_source.email""}: ""wilhemina st.@reese-family.zzz"" --> invalid email format"
+"{row: 2569, column: ""_source.email""}: ""sultan al@shaw-family.zzz"" --> invalid email format"
+"{row: 2570, column: ""_source.email""}: ""wilhemina st.@cunningham-family.zzz"" --> invalid email format"
+"{row: 2571, column: ""_source.email""}: ""wilhemina st.@parker-family.zzz"" --> invalid email format"
+"{row: 2578, column: ""_source.email""}: ""wilhemina st.@hale-family.zzz"" --> invalid email format"
+"{row: 2581, column: ""_source.email""}: ""wilhemina st.@foster-family.zzz"" --> invalid email format"
+"{row: 2586, column: ""_source.email""}: ""sultan al@ryan-family.zzz"" --> invalid email format"
+"{row: 2589, column: ""_source.email""}: ""rabbia al@jenkins-family.zzz"" --> invalid email format"
+"{row: 2597, column: ""_source.email""}: ""sultan al@hudson-family.zzz"" --> invalid email format"
+"{row: 2630, column: ""_source.email""}: ""sultan al@jimenez-family.zzz"" --> invalid email format"
+"{row: 2635, column: ""_source.email""}: ""ahmed al@conner-family.zzz"" --> invalid email format"
+"{row: 2636, column: ""_source.email""}: ""sultan al@carr-family.zzz"" --> invalid email format"
+"{row: 2652, column: ""_source.email""}: ""rabbia al@adams-family.zzz"" --> invalid email format"
+"{row: 2653, column: ""_source.email""}: ""wilhemina st.@brewer-family.zzz"" --> invalid email format"
+"{row: 2655, column: ""_source.email""}: ""abdulraheem al@sherman-family.zzz"" --> invalid email format"
+"{row: 2669, column: ""_source.email""}: ""rabbia al@lamb-family.zzz"" --> invalid email format"
+"{row: 2679, column: ""_source.email""}: ""rabbia al@howell-family.zzz"" --> invalid email format"
+"{row: 2690, column: ""_source.email""}: ""abdulraheem al@soto-family.zzz"" --> invalid email format"
+"{row: 2698, column: ""_source.email""}: ""rabbia al@wise-family.zzz"" --> invalid email format"
+"{row: 2703, column: ""_source.email""}: ""ahmed al@powell-family.zzz"" --> invalid email format"
+"{row: 2711, column: ""_source.email""}: ""ahmed al@carpenter-family.zzz"" --> invalid email format"
+"{row: 2715, column: ""_source.email""}: ""ahmed al@gibbs-family.zzz"" --> invalid email format"
+"{row: 2726, column: ""_source.email""}: ""ahmed al@miller-family.zzz"" --> invalid email format"
+"{row: 2746, column: ""_source.email""}: ""rabbia al@hodges-family.zzz"" --> invalid email format"
+"{row: 2751, column: ""_source.email""}: ""rabbia al@washington-family.zzz"" --> invalid email format"
+"{row: 2753, column: ""_source.email""}: ""sultan al@chapman-family.zzz"" --> invalid email format"
+"{row: 2761, column: ""_source.email""}: ""wilhemina st.@morrison-family.zzz"" --> invalid email format"
+"{row: 2763, column: ""_source.email""}: ""sultan al@roberson-family.zzz"" --> invalid email format"
+"{row: 2777, column: ""_source.email""}: ""wilhemina st.@marshall-family.zzz"" --> invalid email format"
+"{row: 2787, column: ""_source.email""}: ""wilhemina st.@gilbert-family.zzz"" --> invalid email format"
+"{row: 2789, column: ""_source.email""}: ""ahmed al@wells-family.zzz"" --> invalid email format"
+"{row: 2800, column: ""_source.email""}: ""wilhemina st.@garza-family.zzz"" --> invalid email format"
+"{row: 2817, column: ""_source.email""}: ""rabbia al@rivera-family.zzz"" --> invalid email format"
+"{row: 2826, column: ""_source.email""}: ""rabbia al@graham-family.zzz"" --> invalid email format"
+"{row: 2833, column: ""_source.email""}: ""rabbia al@ryan-family.zzz"" --> invalid email format"
+"{row: 2845, column: ""_source.email""}: ""rabbia al@little-family.zzz"" --> invalid email format"
+"{row: 2846, column: ""_source.email""}: ""wilhemina st.@hart-family.zzz"" --> invalid email format"
+"{row: 2860, column: ""_source.email""}: ""sultan al@turner-family.zzz"" --> invalid email format"
+"{row: 2863, column: ""_source.email""}: ""wilhemina st.@ruiz-family.zzz"" --> invalid email format"
+"{row: 2877, column: ""_source.email""}: ""wilhemina st.@lawrence-family.zzz"" --> invalid email format"
+"{row: 2902, column: ""_source.email""}: ""wilhemina st.@hernandez-family.zzz"" --> invalid email format"
+"{row: 2923, column: ""_source.email""}: ""ahmed al@james-family.zzz"" --> invalid email format"
+"{row: 2926, column: ""_source.email""}: ""ahmed al@nash-family.zzz"" --> invalid email format"
+"{row: 2934, column: ""_source.email""}: ""rabbia al@watkins-family.zzz"" --> invalid email format"
+"{row: 2935, column: ""_source.email""}: ""wilhemina st.@benson-family.zzz"" --> invalid email format"
+"{row: 2939, column: ""_source.email""}: ""rabbia al@rice-family.zzz"" --> invalid email format"
+"{row: 2941, column: ""_source.email""}: ""wilhemina st.@byrd-family.zzz"" --> invalid email format"
+"{row: 2950, column: ""_source.email""}: ""abdulraheem al@foster-family.zzz"" --> invalid email format"
+"{row: 2953, column: ""_source.email""}: ""wilhemina st.@rose-family.zzz"" --> invalid email format"
+"{row: 2963, column: ""_source.email""}: ""rabbia al@wise-family.zzz"" --> invalid email format"
+"{row: 2971, column: ""_source.email""}: ""wilhemina st.@palmer-family.zzz"" --> invalid email format"
+"{row: 2978, column: ""_source.email""}: ""wilhemina st.@greer-family.zzz"" --> invalid email format"
+"{row: 2981, column: ""_source.email""}: ""sultan al@benson-family.zzz"" --> invalid email format"
+"{row: 2994, column: ""_source.email""}: ""rabbia al@underwood-family.zzz"" --> invalid email format"
+"{row: 2995, column: ""_source.email""}: ""sultan al@powell-family.zzz"" --> invalid email format"
+"{row: 2998, column: ""_source.email""}: ""wilhemina st.@schultz-family.zzz"" --> invalid email format"
+"{row: 3004, column: ""_source.email""}: ""ahmed al@lewis-family.zzz"" --> invalid email format"
+"{row: 3012, column: ""_source.email""}: ""wilhemina st.@underwood-family.zzz"" --> invalid email format"
+"{row: 3015, column: ""_source.email""}: ""rabbia al@goodwin-family.zzz"" --> invalid email format"
+"{row: 3020, column: ""_source.email""}: ""rabbia al@nash-family.zzz"" --> invalid email format"
+"{row: 3021, column: ""_source.email""}: ""rabbia al@powell-family.zzz"" --> invalid email format"
+"{row: 3025, column: ""_source.email""}: ""ahmed al@jackson-family.zzz"" --> invalid email format"
+"{row: 3026, column: ""_source.email""}: ""abdulraheem al@jensen-family.zzz"" --> invalid email format"
+"{row: 3033, column: ""_source.email""}: ""rabbia al@kelley-family.zzz"" --> invalid email format"
+"{row: 3035, column: ""_source.email""}: ""ahmed al@hart-family.zzz"" --> invalid email format"
+"{row: 3036, column: ""_source.email""}: ""rabbia al@moss-family.zzz"" --> invalid email format"
+"{row: 3039, column: ""_source.email""}: ""sultan al@mckinney-family.zzz"" --> invalid email format"
+"{row: 3058, column: ""_source.email""}: ""ahmed al@goodwin-family.zzz"" --> invalid email format"
+"{row: 3075, column: ""_source.email""}: ""wilhemina st.@bowers-family.zzz"" --> invalid email format"
+"{row: 3087, column: ""_source.email""}: ""wilhemina st.@haynes-family.zzz"" --> invalid email format"
+"{row: 3089, column: ""_source.email""}: ""rabbia al@underwood-family.zzz"" --> invalid email format"
+"{row: 3090, column: ""_source.email""}: ""wilhemina st.@kim-family.zzz"" --> invalid email format"
+"{row: 3092, column: ""_source.email""}: ""sultan al@allison-family.zzz"" --> invalid email format"
+"{row: 3098, column: ""_source.email""}: ""wilhemina st.@ball-family.zzz"" --> invalid email format"
+"{row: 3107, column: ""_source.email""}: ""abdulraheem al@marshall-family.zzz"" --> invalid email format"
+"{row: 3123, column: ""_source.email""}: ""wilhemina st.@strickland-family.zzz"" --> invalid email format"
+"{row: 3140, column: ""_source.email""}: ""rabbia al@jackson-family.zzz"" --> invalid email format"
+"{row: 3156, column: ""_source.email""}: ""rabbia al@stewart-family.zzz"" --> invalid email format"
+"{row: 3158, column: ""_source.email""}: ""wilhemina st.@fletcher-family.zzz"" --> invalid email format"
+"{row: 3176, column: ""_source.email""}: ""rabbia al@baker-family.zzz"" --> invalid email format"
+"{row: 3192, column: ""_source.email""}: ""rabbia al@bryant-family.zzz"" --> invalid email format"
+"{row: 3204, column: ""_source.email""}: ""sultan al@ruiz-family.zzz"" --> invalid email format"
+"{row: 3220, column: ""_source.email""}: ""sultan al@underwood-family.zzz"" --> invalid email format"
+"{row: 3230, column: ""_source.email""}: ""sultan al@garza-family.zzz"" --> invalid email format"
+"{row: 3244, column: ""_source.email""}: ""rabbia al@powell-family.zzz"" --> invalid email format"
+"{row: 3249, column: ""_source.email""}: ""wilhemina st.@goodwin-family.zzz"" --> invalid email format"
+"{row: 3251, column: ""_source.email""}: ""abdulraheem al@rivera-family.zzz"" --> invalid email format"
+"{row: 3267, column: ""_source.email""}: ""sultan al@parker-family.zzz"" --> invalid email format"
+"{row: 3294, column: ""_source.email""}: ""rabbia al@richards-family.zzz"" --> invalid email format"
+"{row: 3298, column: ""_source.email""}: ""sultan al@miller-family.zzz"" --> invalid email format"
+"{row: 3299, column: ""_source.email""}: ""rabbia al@powell-family.zzz"" --> invalid email format"
+"{row: 3305, column: ""_source.email""}: ""wilhemina st.@strickland-family.zzz"" --> invalid email format"
+"{row: 3306, column: ""_source.email""}: ""wilhemina st.@shaw-family.zzz"" --> invalid email format"
+"{row: 3319, column: ""_source.email""}: ""abdulraheem al@mullins-family.zzz"" --> invalid email format"
+"{row: 3322, column: ""_source.email""}: ""sultan al@dawson-family.zzz"" --> invalid email format"
+"{row: 3324, column: ""_source.email""}: ""wilhemina st.@strickland-family.zzz"" --> invalid email format"
+"{row: 3327, column: ""_source.email""}: ""rabbia al@benson-family.zzz"" --> invalid email format"
+"{row: 3335, column: ""_source.email""}: ""wilhemina st.@love-family.zzz"" --> invalid email format"
+"{row: 3342, column: ""_source.email""}: ""rabbia al@james-family.zzz"" --> invalid email format"
+"{row: 3351, column: ""_source.email""}: ""abdulraheem al@gomez-family.zzz"" --> invalid email format"
+"{row: 3358, column: ""_source.email""}: ""sultan al@hale-family.zzz"" --> invalid email format"
+"{row: 3362, column: ""_source.email""}: ""abdulraheem al@evans-family.zzz"" --> invalid email format"
+"{row: 3365, column: ""_source.email""}: ""sultan al@munoz-family.zzz"" --> invalid email format"
+"{row: 3371, column: ""_source.email""}: ""wilhemina st.@gomez-family.zzz"" --> invalid email format"
+"{row: 3383, column: ""_source.email""}: ""sultan al@cook-family.zzz"" --> invalid email format"
+"{row: 3389, column: ""_source.email""}: ""sultan al@caldwell-family.zzz"" --> invalid email format"
+"{row: 3398, column: ""_source.email""}: ""wilhemina st.@romero-family.zzz"" --> invalid email format"
+"{row: 3402, column: ""_source.email""}: ""ahmed al@henderson-family.zzz"" --> invalid email format"
+"{row: 3405, column: ""_source.email""}: ""rabbia al@gomez-family.zzz"" --> invalid email format"
+"{row: 3409, column: ""_source.email""}: ""wilhemina st.@franklin-family.zzz"" --> invalid email format"
+"{row: 3415, column: ""_source.email""}: ""sultan al@valdez-family.zzz"" --> invalid email format"
+"{row: 3424, column: ""_source.email""}: ""sultan al@benson-family.zzz"" --> invalid email format"
+"{row: 3426, column: ""_source.email""}: ""wilhemina st.@daniels-family.zzz"" --> invalid email format"
+"{row: 3446, column: ""_source.email""}: ""ahmed al@soto-family.zzz"" --> invalid email format"
+"{row: 3447, column: ""_source.email""}: ""rabbia al@mccormick-family.zzz"" --> invalid email format"
+"{row: 3449, column: ""_source.email""}: ""sultan al@munoz-family.zzz"" --> invalid email format"
+"{row: 3457, column: ""_source.email""}: ""rabbia al@tran-family.zzz"" --> invalid email format"
+"{row: 3458, column: ""_source.email""}: ""wilhemina st.@estrada-family.zzz"" --> invalid email format"
+"{row: 3468, column: ""_source.email""}: ""sultan al@perry-family.zzz"" --> invalid email format"
+"{row: 3475, column: ""_source.email""}: ""ahmed al@watkins-family.zzz"" --> invalid email format"
+"{row: 3479, column: ""_source.email""}: ""wilhemina st.@frank-family.zzz"" --> invalid email format"
+"{row: 3484, column: ""_source.email""}: ""abdulraheem al@valdez-family.zzz"" --> invalid email format"
+"{row: 3485, column: ""_source.email""}: ""ahmed al@harvey-family.zzz"" --> invalid email format"
+"{row: 3490, column: ""_source.email""}: ""ahmed al@hampton-family.zzz"" --> invalid email format"
+"{row: 3496, column: ""_source.email""}: ""rabbia al@mccarthy-family.zzz"" --> invalid email format"
+"{row: 3498, column: ""_source.email""}: ""wilhemina st.@chandler-family.zzz"" --> invalid email format"
+"{row: 3499, column: ""_source.email""}: ""rabbia al@maldonado-family.zzz"" --> invalid email format"
+"{row: 3502, column: ""_source.email""}: ""sultan al@greene-family.zzz"" --> invalid email format"
+"{row: 3504, column: ""_source.email""}: ""wilhemina st.@roberson-family.zzz"" --> invalid email format"
+"{row: 3535, column: ""_source.email""}: ""wilhemina st.@turner-family.zzz"" --> invalid email format"
+"{row: 3549, column: ""_source.email""}: ""wilhemina st.@king-family.zzz"" --> invalid email format"
+"{row: 3550, column: ""_source.email""}: ""sultan al@ryan-family.zzz"" --> invalid email format"
+"{row: 3553, column: ""_source.email""}: ""wilhemina st.@stokes-family.zzz"" --> invalid email format"
+"{row: 3554, column: ""_source.email""}: ""abdulraheem al@miller-family.zzz"" --> invalid email format"
+"{row: 3573, column: ""_source.email""}: ""rabbia al@lewis-family.zzz"" --> invalid email format"
+"{row: 3579, column: ""_source.email""}: ""sultan al@tyler-family.zzz"" --> invalid email format"
+"{row: 3585, column: ""_source.email""}: ""rabbia al@mcdonald-family.zzz"" --> invalid email format"
+"{row: 3588, column: ""_source.email""}: ""wilhemina st.@mckinney-family.zzz"" --> invalid email format"
+"{row: 3598, column: ""_source.email""}: ""abdulraheem al@perkins-family.zzz"" --> invalid email format"
+"{row: 3618, column: ""_source.email""}: ""wilhemina st.@weber-family.zzz"" --> invalid email format"
+"{row: 3621, column: ""_source.email""}: ""wilhemina st.@greene-family.zzz"" --> invalid email format"
+"{row: 3631, column: ""_source.email""}: ""wilhemina st.@graham-family.zzz"" --> invalid email format"
+"{row: 3637, column: ""_source.email""}: ""wilhemina st.@morrison-family.zzz"" --> invalid email format"
+"{row: 3644, column: ""_source.email""}: ""ahmed al@morris-family.zzz"" --> invalid email format"
+"{row: 3656, column: ""_source.email""}: ""abdulraheem al@long-family.zzz"" --> invalid email format"
+"{row: 3658, column: ""_source.email""}: ""rabbia al@stewart-family.zzz"" --> invalid email format"
+"{row: 3678, column: ""_source.email""}: ""rabbia al@king-family.zzz"" --> invalid email format"
+"{row: 3683, column: ""_source.email""}: ""rabbia al@sharp-family.zzz"" --> invalid email format"
+"{row: 3690, column: ""_source.email""}: ""wilhemina st.@washington-family.zzz"" --> invalid email format"
+"{row: 3691, column: ""_source.email""}: ""sultan al@romero-family.zzz"" --> invalid email format"
+"{row: 3708, column: ""_source.email""}: ""ahmed al@byrd-family.zzz"" --> invalid email format"
+"{row: 3710, column: ""_source.email""}: ""wilhemina st.@daniels-family.zzz"" --> invalid email format"
+"{row: 3715, column: ""_source.email""}: ""rabbia al@simpson-family.zzz"" --> invalid email format"
+"{row: 3718, column: ""_source.email""}: ""wilhemina st.@pope-family.zzz"" --> invalid email format"
+"{row: 3732, column: ""_source.email""}: ""ahmed al@boone-family.zzz"" --> invalid email format"
+"{row: 3734, column: ""_source.email""}: ""wilhemina st.@wood-family.zzz"" --> invalid email format"
+"{row: 3735, column: ""_source.email""}: ""rabbia al@king-family.zzz"" --> invalid email format"
+"{row: 3738, column: ""_source.email""}: ""wilhemina st.@dixon-family.zzz"" --> invalid email format"
+"{row: 3745, column: ""_source.email""}: ""rabbia al@tyler-family.zzz"" --> invalid email format"
+"{row: 3748, column: ""_source.email""}: ""wilhemina st.@lewis-family.zzz"" --> invalid email format"
+"{row: 3753, column: ""_source.email""}: ""abdulraheem al@boone-family.zzz"" --> invalid email format"
+"{row: 3755, column: ""_source.email""}: ""sultan al@franklin-family.zzz"" --> invalid email format"
+"{row: 3763, column: ""_source.email""}: ""wilhemina st.@fleming-family.zzz"" --> invalid email format"
+"{row: 3764, column: ""_source.email""}: ""ahmed al@marshall-family.zzz"" --> invalid email format"
+"{row: 3767, column: ""_source.email""}: ""ahmed al@long-family.zzz"" --> invalid email format"
+"{row: 3779, column: ""_source.email""}: ""wilhemina st.@rivera-family.zzz"" --> invalid email format"
+"{row: 3780, column: ""_source.email""}: ""rabbia al@gross-family.zzz"" --> invalid email format"
+"{row: 3783, column: ""_source.email""}: ""sultan al@byrd-family.zzz"" --> invalid email format"
+"{row: 3793, column: ""_source.email""}: ""rabbia al@mclaughlin-family.zzz"" --> invalid email format"
+"{row: 3794, column: ""_source.email""}: ""wilhemina st.@fleming-family.zzz"" --> invalid email format"
+"{row: 3797, column: ""_source.email""}: ""sultan al@hampton-family.zzz"" --> invalid email format"
+"{row: 3798, column: ""_source.email""}: ""wilhemina st.@sutton-family.zzz"" --> invalid email format"
+"{row: 3806, column: ""_source.email""}: ""rabbia al@franklin-family.zzz"" --> invalid email format"
+"{row: 3823, column: ""_source.email""}: ""sultan al@gregory-family.zzz"" --> invalid email format"
+"{row: 3824, column: ""_source.email""}: ""rabbia al@rodriguez-family.zzz"" --> invalid email format"
+"{row: 3835, column: ""_source.email""}: ""sultan al@duncan-family.zzz"" --> invalid email format"
+"{row: 3840, column: ""_source.email""}: ""rabbia al@bryant-family.zzz"" --> invalid email format"
+"{row: 3841, column: ""_source.email""}: ""abdulraheem al@mccarthy-family.zzz"" --> invalid email format"
+"{row: 3842, column: ""_source.email""}: ""wilhemina st.@hernandez-family.zzz"" --> invalid email format"
+"{row: 3849, column: ""_source.email""}: ""abdulraheem al@porter-family.zzz"" --> invalid email format"
+"{row: 3859, column: ""_source.email""}: ""rabbia al@perry-family.zzz"" --> invalid email format"
+"{row: 3863, column: ""_source.email""}: ""rabbia al@reese-family.zzz"" --> invalid email format"
+"{row: 3866, column: ""_source.email""}: ""wilhemina st.@jimenez-family.zzz"" --> invalid email format"
+"{row: 3867, column: ""_source.email""}: ""wilhemina st.@holland-family.zzz"" --> invalid email format"
+"{row: 3870, column: ""_source.email""}: ""rabbia al@james-family.zzz"" --> invalid email format"
+"{row: 3879, column: ""_source.email""}: ""sultan al@moran-family.zzz"" --> invalid email format"
+"{row: 3918, column: ""_source.email""}: ""wilhemina st.@carr-family.zzz"" --> invalid email format"
+"{row: 3924, column: ""_source.email""}: ""ahmed al@summers-family.zzz"" --> invalid email format"
+"{row: 3930, column: ""_source.email""}: ""sultan al@webb-family.zzz"" --> invalid email format"
+"{row: 3962, column: ""_source.email""}: ""abdulraheem al@mccormick-family.zzz"" --> invalid email format"
+"{row: 3992, column: ""_source.email""}: ""ahmed al@frank-family.zzz"" --> invalid email format"
+"{row: 4002, column: ""_source.email""}: ""wilhemina st.@gross-family.zzz"" --> invalid email format"
+"{row: 4008, column: ""_source.email""}: ""abdulraheem al@little-family.zzz"" --> invalid email format"
+"{row: 4018, column: ""_source.email""}: ""abdulraheem al@munoz-family.zzz"" --> invalid email format"
+"{row: 4022, column: ""_source.email""}: ""wilhemina st.@jimenez-family.zzz"" --> invalid email format"
+"{row: 4035, column: ""_source.email""}: ""ahmed al@reese-family.zzz"" --> invalid email format"
+"{row: 4053, column: ""_source.email""}: ""abdulraheem al@rowe-family.zzz"" --> invalid email format"
+"{row: 4055, column: ""_source.email""}: ""rabbia al@adams-family.zzz"" --> invalid email format"
+"{row: 4057, column: ""_source.email""}: ""wilhemina st.@baker-family.zzz"" --> invalid email format"
+"{row: 4058, column: ""_source.email""}: ""rabbia al@morris-family.zzz"" --> invalid email format"
+"{row: 4061, column: ""_source.email""}: ""sultan al@lloyd-family.zzz"" --> invalid email format"
+"{row: 4117, column: ""_source.email""}: ""ahmed al@fletcher-family.zzz"" --> invalid email format"
+"{row: 4119, column: ""_source.email""}: ""abdulraheem al@hampton-family.zzz"" --> invalid email format"
+"{row: 4124, column: ""_source.email""}: ""wilhemina st.@gregory-family.zzz"" --> invalid email format"
+"{row: 4133, column: ""_source.email""}: ""rabbia al@james-family.zzz"" --> invalid email format"
+"{row: 4154, column: ""_source.email""}: ""sultan al@marshall-family.zzz"" --> invalid email format"
+"{row: 4157, column: ""_source.email""}: ""ahmed al@elliott-family.zzz"" --> invalid email format"
+"{row: 4160, column: ""_source.email""}: ""rabbia al@mcdonald-family.zzz"" --> invalid email format"
+"{row: 4167, column: ""_source.email""}: ""wilhemina st.@gregory-family.zzz"" --> invalid email format"
+"{row: 4173, column: ""_source.email""}: ""abdulraheem al@potter-family.zzz"" --> invalid email format"
+"{row: 4176, column: ""_source.email""}: ""wilhemina st.@padilla-family.zzz"" --> invalid email format"
+"{row: 4181, column: ""_source.email""}: ""wilhemina st.@foster-family.zzz"" --> invalid email format"
+"{row: 4193, column: ""_source.email""}: ""rabbia al@dennis-family.zzz"" --> invalid email format"
+"{row: 4202, column: ""_source.email""}: ""rabbia al@gomez-family.zzz"" --> invalid email format"
+"{row: 4205, column: ""_source.email""}: ""abdulraheem al@mckenzie-family.zzz"" --> invalid email format"
+"{row: 4219, column: ""_source.email""}: ""rabbia al@watkins-family.zzz"" --> invalid email format"
+"{row: 4256, column: ""_source.email""}: ""wilhemina st.@chapman-family.zzz"" --> invalid email format"
+"{row: 4265, column: ""_source.email""}: ""abdulraheem al@garner-family.zzz"" --> invalid email format"
+"{row: 4271, column: ""_source.email""}: ""rabbia al@perkins-family.zzz"" --> invalid email format"
+"{row: 4278, column: ""_source.email""}: ""wilhemina st.@frank-family.zzz"" --> invalid email format"
+"{row: 4279, column: ""_source.email""}: ""rabbia al@palmer-family.zzz"" --> invalid email format"
+"{row: 4283, column: ""_source.email""}: ""sultan al@harmon-family.zzz"" --> invalid email format"
+"{row: 4289, column: ""_source.email""}: ""sultan al@rivera-family.zzz"" --> invalid email format"
+"{row: 4307, column: ""_source.email""}: ""wilhemina st.@ryan-family.zzz"" --> invalid email format"
+"{row: 4310, column: ""_source.email""}: ""rabbia al@mcdonald-family.zzz"" --> invalid email format"
+"{row: 4311, column: ""_source.email""}: ""sultan al@jimenez-family.zzz"" --> invalid email format"
+"{row: 4370, column: ""_source.email""}: ""wilhemina st.@rivera-family.zzz"" --> invalid email format"
+"{row: 4410, column: ""_source.email""}: ""abdulraheem al@tyler-family.zzz"" --> invalid email format"
+"{row: 4415, column: ""_source.email""}: ""ahmed al@cunningham-family.zzz"" --> invalid email format"
+"{row: 4418, column: ""_source.email""}: ""rabbia al@mclaughlin-family.zzz"" --> invalid email format"
+"{row: 4431, column: ""_source.email""}: ""ahmed al@graham-family.zzz"" --> invalid email format"
+"{row: 4449, column: ""_source.email""}: ""ahmed al@padilla-family.zzz"" --> invalid email format"
+"{row: 4453, column: ""_source.email""}: ""rabbia al@foster-family.zzz"" --> invalid email format"
+"{row: 4463, column: ""_source.email""}: ""wilhemina st.@powell-family.zzz"" --> invalid email format"
+"{row: 4466, column: ""_source.email""}: ""ahmed al@king-family.zzz"" --> invalid email format"
+"{row: 4469, column: ""_source.email""}: ""ahmed al@jacobs-family.zzz"" --> invalid email format"
+"{row: 4471, column: ""_source.email""}: ""wilhemina st.@kim-family.zzz"" --> invalid email format"
+"{row: 4475, column: ""_source.email""}: ""rabbia al@parker-family.zzz"" --> invalid email format"
+"{row: 4477, column: ""_source.email""}: ""wilhemina st.@miller-family.zzz"" --> invalid email format"
+"{row: 4503, column: ""_source.email""}: ""wilhemina st.@hart-family.zzz"" --> invalid email format"
+"{row: 4506, column: ""_source.email""}: ""wilhemina st.@rose-family.zzz"" --> invalid email format"
+"{row: 4509, column: ""_source.email""}: ""sultan al@hubbard-family.zzz"" --> invalid email format"
+"{row: 4515, column: ""_source.email""}: ""wilhemina st.@hubbard-family.zzz"" --> invalid email format"
+"{row: 4534, column: ""_source.email""}: ""wilhemina st.@brewer-family.zzz"" --> invalid email format"
+"{row: 4536, column: ""_source.email""}: ""abdulraheem al@graves-family.zzz"" --> invalid email format"
+"{row: 4539, column: ""_source.email""}: ""rabbia al@bailey-family.zzz"" --> invalid email format"
+"{row: 4547, column: ""_source.email""}: ""rabbia al@mcdonald-family.zzz"" --> invalid email format"
+"{row: 4552, column: ""_source.email""}: ""rabbia al@swanson-family.zzz"" --> invalid email format"
+"{row: 4555, column: ""_source.email""}: ""rabbia al@jenkins-family.zzz"" --> invalid email format"
+"{row: 4560, column: ""_source.email""}: ""wilhemina st.@strickland-family.zzz"" --> invalid email format"
+"{row: 4569, column: ""_source.email""}: ""rabbia al@phelps-family.zzz"" --> invalid email format"
+"{row: 4571, column: ""_source.email""}: ""abdulraheem al@wolfe-family.zzz"" --> invalid email format"
+"{row: 4572, column: ""_source.email""}: ""rabbia al@harper-family.zzz"" --> invalid email format"
+"{row: 4580, column: ""_source.email""}: ""rabbia al@wise-family.zzz"" --> invalid email format"
+"{row: 4582, column: ""_source.email""}: ""sultan al@goodman-family.zzz"" --> invalid email format"
+"{row: 4594, column: ""_source.email""}: ""wilhemina st.@porter-family.zzz"" --> invalid email format"
+"{row: 4595, column: ""_source.email""}: ""wilhemina st.@dawson-family.zzz"" --> invalid email format"
+"{row: 4602, column: ""_source.email""}: ""rabbia al@banks-family.zzz"" --> invalid email format"
+"{row: 4613, column: ""_source.email""}: ""wilhemina st.@harvey-family.zzz"" --> invalid email format"
+"{row: 4618, column: ""_source.email""}: ""rabbia al@butler-family.zzz"" --> invalid email format"
+"{row: 4620, column: ""_source.email""}: ""rabbia al@gross-family.zzz"" --> invalid email format"
+"{row: 4625, column: ""_source.email""}: ""wilhemina st.@carpenter-family.zzz"" --> invalid email format"
+"{row: 4628, column: ""_source.email""}: ""rabbia al@tran-family.zzz"" --> invalid email format"
+"{row: 4631, column: ""_source.email""}: ""rabbia al@little-family.zzz"" --> invalid email format"
+"{row: 4632, column: ""_source.email""}: ""wilhemina st.@mullins-family.zzz"" --> invalid email format"
+"{row: 4633, column: ""_source.email""}: ""rabbia al@hodges-family.zzz"" --> invalid email format"
+"{row: 4649, column: ""_source.email""}: ""sultan al@gregory-family.zzz"" --> invalid email format"
+"{row: 4665, column: ""_source.email""}: ""rabbia al@benson-family.zzz"" --> invalid email format"
+"{row: 4667, column: ""_source.email""}: ""sultan al@graham-family.zzz"" --> invalid email format"
+TEST EXECUTION ON: 2022-11-02 22:08:17 - ERRORS FOUND IN THE FOLLOWING RECORDS:
+"{row: 368, column: ""created_on""}: ""368    2016-12-26T09:28:48+00:00
+368                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 369, column: ""created_on""}: ""369    2016-12-25T03:02:53+00:00
+369                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 633, column: ""created_on""}: ""633    2016-12-26T02:51:22+00:00
+633                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 634, column: ""created_on""}: ""634    2016-12-23T05:58:34+00:00
+634                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 635, column: ""created_on""}: ""635    2016-12-27T02:21:07+00:00
+635                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 759, column: ""created_on""}: ""759    2016-12-07T00:07:12+00:00
+759                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 802, column: ""created_on""}: ""802    2016-12-18T06:56:10+00:00
+802                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 803, column: ""created_on""}: ""803    2016-12-20T03:01:26+00:00
+803                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 804, column: ""created_on""}: ""804    2016-12-27T21:21:36+00:00
+804                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 946, column: ""created_on""}: ""946    2016-12-28T20:45:36+00:00
+946                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 947, column: ""created_on""}: ""947    2016-12-28T11:42:43+00:00
+947                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1349, column: ""created_on""}: ""1349    2016-12-16T14:13:12+00:00
+1349                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1350, column: ""created_on""}: ""1350    2016-12-17T02:11:12+00:00
+1350                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1351, column: ""created_on""}: ""1351    2016-12-18T18:11:12+00:00
+1351                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1453, column: ""created_on""}: ""1453    2016-12-28T04:48:00+00:00
+1453                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1454, column: ""created_on""}: ""1454    2016-12-29T13:29:17+00:00
+1454                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1455, column: ""created_on""}: ""1455    2016-12-27T09:24:29+00:00
+1455                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1484, column: ""created_on""}: ""1484    2016-12-18T18:11:12+00:00
+1484                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1485, column: ""created_on""}: ""1485    2016-12-07T00:05:46+00:00
+1485                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1578, column: ""created_on""}: ""1578    2016-12-27T09:44:38+00:00
+1578                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1579, column: ""created_on""}: ""1579    2016-12-15T20:47:02+00:00
+1579                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1580, column: ""created_on""}: ""1580    2016-12-21T11:57:07+00:00
+1580                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1581, column: ""created_on""}: ""1581    2016-12-26T18:25:55+00:00
+1581                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1582, column: ""created_on""}: ""1582    2016-12-24T02:57:07+00:00
+1582                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1583, column: ""created_on""}: ""1583    2016-12-20T21:53:17+00:00
+1583                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1587, column: ""created_on""}: ""1587    2016-12-29T20:44:10+00:00
+1587                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1588, column: ""created_on""}: ""1588    2016-12-28T22:40:48+00:00
+1588                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1589, column: ""created_on""}: ""1589    2016-12-27T13:12:00+00:00
+1589                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1812, column: ""created_on""}: ""1812    2016-12-22T23:57:07+00:00
+1812                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1845, column: ""created_on""}: ""1845    2016-12-24T08:38:24+00:00
+1845                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1991, column: ""created_on""}: ""1991    2016-12-23T14:02:24+00:00
+1991                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 1992, column: ""created_on""}: ""1992    2016-12-27T22:48:00+00:00
+1992                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2156, column: ""created_on""}: ""2156    2016-12-21T08:18:14+00:00
+2156                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2157, column: ""created_on""}: ""2157    2016-12-29T17:15:22+00:00
+2157                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2158, column: ""created_on""}: ""2158    2016-12-22T09:20:10+00:00
+2158                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2159, column: ""created_on""}: ""2159    2016-12-24T05:16:48+00:00
+2159                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2160, column: ""created_on""}: ""2160    2016-12-22T08:13:55+00:00
+2160                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2161, column: ""created_on""}: ""2161    2016-12-16T20:32:38+00:00
+2161                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2162, column: ""created_on""}: ""2162    2016-12-15T09:59:02+00:00
+2162                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2163, column: ""created_on""}: ""2163    2016-12-18T01:01:55+00:00
+2163                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2164, column: ""created_on""}: ""2164    2016-12-18T02:51:22+00:00
+2164                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2165, column: ""created_on""}: ""2165    2016-12-18T23:35:31+00:00
+2165                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2166, column: ""created_on""}: ""2166    2016-12-18T17:02:24+00:00
+2166                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2472, column: ""created_on""}: ""2472    2016-12-25T02:11:02+00:00
+2472                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2473, column: ""created_on""}: ""2473    2016-12-17T10:58:05+00:00
+2473                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2474, column: ""created_on""}: ""2474    2016-12-23T02:47:02+00:00
+2474                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2475, column: ""created_on""}: ""2475    2016-12-22T23:29:46+00:00
+2475                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2477, column: ""created_on""}: ""2477    2016-12-18T02:35:31+00:00
+2477                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2478, column: ""created_on""}: ""2478    2016-12-18T09:05:46+00:00
+2478                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2479, column: ""created_on""}: ""2479    2016-12-28T12:23:02+00:00
+2479                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2650, column: ""created_on""}: ""2650    2016-12-18T12:53:17+00:00
+2650                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2651, column: ""created_on""}: ""2651    2016-12-26T03:30:14+00:00
+2651                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2652, column: ""created_on""}: ""2652    2016-12-21T00:11:31+00:00
+2652                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2653, column: ""created_on""}: ""2653    2016-12-16T09:54:43+00:00
+2653                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 2966, column: ""created_on""}: ""2966    2016-12-06T17:11:12+00:00
+2966                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3040, column: ""created_on""}: ""3040    2016-12-23T02:03:50+00:00
+3040                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3041, column: ""created_on""}: ""3041    2016-12-29T17:47:02+00:00
+3041                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3113, column: ""created_on""}: ""3113    2016-12-19T14:02:24+00:00
+3113                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3114, column: ""created_on""}: ""3114    2016-12-27T01:32:10+00:00
+3114                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3115, column: ""created_on""}: ""3115    2016-12-22T20:21:07+00:00
+3115                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3116, column: ""created_on""}: ""3116    2016-12-18T12:46:05+00:00
+3116                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3117, column: ""created_on""}: ""3117    2016-12-22T08:39:50+00:00
+3117                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3177, column: ""created_on""}: ""3177    2016-12-16T12:11:31+00:00
+3177                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3178, column: ""created_on""}: ""3178    2016-12-27T18:40:19+00:00
+3178                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3179, column: ""created_on""}: ""3179    2016-12-18T09:23:02+00:00
+3179                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3180, column: ""created_on""}: ""3180    2016-12-17T18:11:12+00:00
+3180                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3454, column: ""created_on""}: ""3454    2016-12-20T23:21:07+00:00
+3454                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3455, column: ""created_on""}: ""3455    2016-12-21T23:25:26+00:00
+3455                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3456, column: ""created_on""}: ""3456    2016-12-16T06:57:36+00:00
+3456                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3457, column: ""created_on""}: ""3457    2016-12-17T14:49:55+00:00
+3457                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3459, column: ""created_on""}: ""3459    2016-12-23T12:46:05+00:00
+3459                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3460, column: ""created_on""}: ""3460    2016-12-20T06:36:00+00:00
+3460                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3461, column: ""created_on""}: ""3461    2016-12-15T11:03:50+00:00
+3461                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3635, column: ""created_on""}: ""3635    2016-12-29T09:01:26+00:00
+3635                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3636, column: ""created_on""}: ""3636    2016-12-23T13:04:48+00:00
+3636                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3639, column: ""created_on""}: ""3639    2016-12-27T20:29:46+00:00
+3639                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3640, column: ""created_on""}: ""3640    2016-12-25T11:11:02+00:00
+3640                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 3641, column: ""created_on""}: ""3641    2016-12-20T05:08:10+00:00
+3641                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4000, column: ""created_on""}: ""4000    2016-12-18T17:42:43+00:00
+4000                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4001, column: ""created_on""}: ""4001    2016-12-27T20:57:07+00:00
+4001                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4002, column: ""created_on""}: ""4002    2016-12-21T11:13:55+00:00
+4002                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4056, column: ""created_on""}: ""4056    2016-12-22T14:22:34+00:00
+4056                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4057, column: ""created_on""}: ""4057    2016-12-24T15:57:36+00:00
+4057                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4058, column: ""created_on""}: ""4058    2016-12-21T10:39:22+00:00
+4058                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4554, column: ""created_on""}: ""4554    2016-12-20T20:58:34+00:00
+4554                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4555, column: ""created_on""}: ""4555    2016-12-24T07:40:48+00:00
+4555                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
+"{row: 4556, column: ""created_on""}: ""4556    2016-12-17T21:40:19+00:00
+4556                          NaN
+Name: created_on, dtype: object"" --> invalid datetime format"
