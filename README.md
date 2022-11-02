@@ -48,8 +48,8 @@ Please make sure the `elastic_data.json` file is in the `test_data` folder befor
 =
 In order to run the tests in the console, you can use the following commands:
 
-pytest -s test_header_fields.py
-pytest -s test_product_fields.py
-pytest -s test_source_fields.py
+- pytest -s test_header_fields.py
+- pytest -s test_product_fields.py
+- pytest -s test_source_fields.py
 
 At the end of the execution the file `output_errors.csv` will be written in the `test_data` folder, please check the folder.
